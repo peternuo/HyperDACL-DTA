@@ -1,0 +1,12 @@
+dataset,model,mse,rmse,ci,r2s,pearson,spearman
+kiba,Graph_GAT,0.124,0.352,0.903,0.817,0.905,0.898,0.784
+dataset,model,mse,rmse,ci,r2s,pearson,spearman
+kiba,Graph_GAT,28.286,5.318,0.905,-40.617,0.907,0.9,0.435
+dataset,model,mse,rmse,ci,r2s,pearson,spearman
+kiba,Graph_GAT,0.121,0.348,0.905,0.821,0.907,0.9,0.79
+dataset,model,mse,rmse,ci,r2s,pearson,spearman
+kiba,Graph_GAT,0.121,0.348,0.905,0.821,0.907,0.9,0.79
+dataset,model,mse,rmse,ci,r2s,pearson,spearman
+kiba,Graph_GAT,0.126,0.355,0.899,0.815,0.903,0.894,0.811
+dataset,model,mse,rmse,ci,r2s,pearson,spearman
+kiba,Graph_GAT,0.125,0.354,0.899,0.816,0.903,0.895,0.807

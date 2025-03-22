@@ -1,0 +1,2 @@
+dataset,model,mse,rmse,ci,r2s,pearson,spearman
+davis,Graph_GAT,0.197,0.444,0.905,0.754,0.869,0.72,0.725
