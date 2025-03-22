@@ -1,1 +1,1 @@
-基于超图神经网络和对比学习的药物**-**靶点亲和力预测
+Drug-target affinity prediction based on hypergraph neural networks and comparative learning
